@@ -24,27 +24,3 @@ def minOperations(n):
             iterator = 1
         iterator += 1
     return operations
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-0-minoperations.py [unix] (02:59 01/01/1970)                           0,0-1 All
-"0-minoperations.py" [New]
-
