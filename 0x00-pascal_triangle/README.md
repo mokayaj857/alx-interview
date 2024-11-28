@@ -1,3 +1,4 @@
+Author:   John  Mokaya
 0x00. Pascal's Triangle
 
 Must Know
