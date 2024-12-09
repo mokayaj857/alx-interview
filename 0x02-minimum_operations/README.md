@@ -1,4 +1,4 @@
-0x02. Minimum Operations
+0x02. Minimum Operations.
 
 For this project, you will need to understand several key algorithmic and mathematical concepts to devise a solution that efficiently calculates the minimum number of operations to achieve a given number of characters using only “Copy All” and “Paste” operations. Here is a list of concepts and resources that will be helpful:
 
@@ -36,3 +36,4 @@ A README.md file, at the root of the folder of the project, is mandatory
 Your code should be documented
 Your code should use the PEP 8 style (version 1.7.x)
 All your files must be executable
+author :John Mokaya
